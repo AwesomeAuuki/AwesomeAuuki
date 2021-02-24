@@ -30,7 +30,7 @@
 				</details>
 			</td>
 			<td>
-				<img src="https://github.com/AwesomeAuuki/AwesomeAuuki/raw/main/shield_logo.png" , width="150">
+				<img src="https://i.redd.it/hz2stkquykk21.png" , width="150">
 				<details>
 					<summary>Shield - NYX</summary>
 				</details>
