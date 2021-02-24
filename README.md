@@ -30,7 +30,7 @@
 				</details>
 			</td>
 			<td>
-				<img src="https://i.redd.it/hz2stkquykk21.png" , width="150">
+				<img src="https://i.redd.it/hz2stkquykk21.png", width="50">
 				<details>
 					<summary>Shield - NYX</summary>
 				</details>
