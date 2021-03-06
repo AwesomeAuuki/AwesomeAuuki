@@ -19,5 +19,4 @@
 				<a href="https://discord.gg/ePmNxnQ"> <img align="center" src="https://img.shields.io/discord/749174105151897610?label=Discord" /> </p>
 		</details>
 	</td>
- <footer>I hope you like my introduction!</footer>
 </table>
