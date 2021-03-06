@@ -1,10 +1,11 @@
 
-</a>
-<a href="https://namemc.com/Auuki.2">
-<img align="center" src="https://minotar.net/cube/Auuki/100.png"/>
-</a>
+
 
 <table align="center">
+ <td></a>
+<a href="https://namemc.com/Auuki.2">
+<img align="center" src="https://minotar.net/cube/Auuki/100.png"/>
+</a></td>
 <td><a href="https://open.spotify.com/user/0zveql3ijdtupwyyxl3awwufk"><img src="https://novatorem-three-sooty.vercel.app/api/spotify"/></a></td>
 <td>
 <h4 align="center">ABOUT ME</h4>
