@@ -12,9 +12,13 @@
 <details><summary>Where to Contact Me-e!</summary>
 <p align="center">
 <a href="https://discord.gg/ePmNxnQ">
-<img align="center" src="https://img.shields.io/discord/749174105151897610?label=Discord">
+<img align="center" src="https://img.shields.io/discord/749174105151897610?label=Discord"/>
+</a>
+<a href="https://namemc.com/Auuki.2">
+<img align="center" src="https://minotar.net/cube/Auuki/100.png"/>
 </a>
 </p>
 </details>
 </td>
 </table>
+ 
