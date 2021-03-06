@@ -1,4 +1,4 @@
-<table>
+<table align="center">
 <td><a href="https://open.spotify.com/user/0zveql3ijdtupwyyxl3awwufk"><img src="https://novatorem-three-sooty.vercel.app/api/spotify"/></a></td>
 <td>
 <h4 align="center">ABOUT ME</h4>
