@@ -1,3 +1,9 @@
+
+</a>
+<a href="https://namemc.com/Auuki.2">
+<img align="center" src="https://minotar.net/cube/Auuki/100.png"/>
+</a>
+
 <table align="center">
 <td><a href="https://open.spotify.com/user/0zveql3ijdtupwyyxl3awwufk"><img src="https://novatorem-three-sooty.vercel.app/api/spotify"/></a></td>
 <td>
@@ -13,10 +19,6 @@
 <p align="center">
 <a href="https://discord.gg/ePmNxnQ">
 <img align="center" src="https://img.shields.io/discord/749174105151897610?label=Discord"/>
-</a>
-<a href="https://namemc.com/Auuki.2">
-<img align="center" src="https://minotar.net/cube/Auuki/100.png"/>
-</a>
 </p>
 </details>
 </td>
