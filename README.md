@@ -22,4 +22,3 @@
 </details>
 </td>
 </table>
-<-- Updated -->
