@@ -1,5 +1,5 @@
 <table align="center">
- <h4>Hey!</h4>
+ <h3>Hey!</h4>
 	<td>
 		</a>
 		<a href="https://namemc.com/Auuki.2"> <img align="center" src="https://minotar.net/cube/Auuki/100.png" /> </a>
