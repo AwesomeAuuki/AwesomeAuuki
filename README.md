@@ -1,12 +1,12 @@
 <table align="center">
- <h3>Hey!</h4>
+ <h3>Hey!</h3>
 	<td>
-		<h3>Check out, My Minecraft Character!</h3>
+		Check out, My Minecraft Character!
 		<a href="https://namemc.com/Auuki.2"> <img align="center" src="https://minotar.net/cube/Auuki/100.png" /> 
 		</a>
 	</td>
 	<td>
-		<h3>What I'm currently listening too!</h3>
+		<h4>What I'm currently listening too!</h4>
 		<a href="https://open.spotify.com/user/0zveql3ijdtupwyyxl3awwufk"><img src="https://novatorem-three-sooty.vercel.app/api/spotify" /></a>
 	</td>
 	<td>
