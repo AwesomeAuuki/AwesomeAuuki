@@ -9,5 +9,12 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=AwesomeAuuki&column=7" alt="Auuki's Github Trophy" />
 </p>
 </details>
+<details><summary>Where to Contact Me-e!</summary>
+<p align="center">
+<a href="https://discord.gg/ePmNxnQ">
+<img align="center" src="https://img.shields.io/discord/749174105151897610?label=Discord">
+</a>
+</p>
+</details>
 </td>
 </table>
