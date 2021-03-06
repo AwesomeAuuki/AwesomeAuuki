@@ -1,10 +1,12 @@
  ### Hey!
 
-<p align="center"><td>
+<td>
+<p align="center">
     <a href="https://open.spotify.com/user/0zveql3ijdtupwyyxl3awwufk">
     <img src="https://novatorem-three-sooty.vercel.app/api/spotify"/>
-    </a></td>
+    </a>
 </p>
+</td>
 
 * Some GitHub Statistical Reports
 <p align="center">
