@@ -1,7 +1,7 @@
 <table>
 <td><a href="https://open.spotify.com/user/0zveql3ijdtupwyyxl3awwufk"><img src="https://novatorem-three-sooty.vercel.app/api/spotify"/></a></td>
-<table><td>
-<h4>ABOUT ME</h4>
+<td>
+<h4 align="center">ABOUT ME</h4>
 <details><summary>GitHub Statistical Reports</summary>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwesomeAuuki&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
@@ -9,5 +9,5 @@
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=AwesomeAuuki&column=7" alt="Auuki's Github Trophy" />
 </p>
 </details>
-</td></table>
+</td>
 </table>
