@@ -16,6 +16,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AwesomeAuuki&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="Auuki's Github Stats">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=AwesomeAuuki&column=7" alt="Auuki's Github Trophy">
 </p>    
+</details>
 <details><summary>Where to Contact Me-e!</summary>
 <p align="center"><a href="https://discord.gg/ePmNxnQ">
 <img align="center" src="https://img.shields.io/discord/749174105151897610?label=Discord"/>
