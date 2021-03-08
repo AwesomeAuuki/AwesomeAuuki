@@ -10,7 +10,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwesomeAuuki&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AwesomeAuuki&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="Auuki's Github Stats" />
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=AwesomeAuuki&column=7" alt="Auuki's Github Trophy" />
-</p>
 </details>
 <details><summary>Where to Contact Me-e!</summary>
 <p align="center">
@@ -22,5 +21,6 @@
 </p>
 </td>
 </table>
+</p>
 <img align="center" src="https://github.com/AwesomeAuuki/AwesomeAuuki/raw/main/images/full-avatar.jpg", width="40">
 
