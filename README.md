@@ -18,6 +18,9 @@
 <a href="https://discord.gg/ePmNxnQ">
 <img align="center" src="https://img.shields.io/discord/749174105151897610?label=Discord"/>
 </a>
+<a href="https://ko-fi.com/auuki">
+  <img align="center" src="https://bit.ly/3c9otOD">
+</a> 
 </p>
 </details>
 </td>
