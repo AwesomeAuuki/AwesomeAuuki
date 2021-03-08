@@ -1,8 +1,7 @@
 <p align="center">
 <a href="https://namemc.com/Auuki.2">
 <img align="center" src="https://cravatar.eu/helmhead/auuki/190.png", width="80"/>
-</a>
-</p><table align="center">
+</a><a href="https://ko-fi.com/auuki"><img align="center" src="https://bit.ly/3c9otOD"></a></p><table align="center">
 <td><a href="https://open.spotify.com/user/0zveql3ijdtupwyyxl3awwufk"><img src="https://novatorem-three-sooty.vercel.app/api/spotify"/></a></td>
 <td>
 <h4 align="center">ABOUT ME</h4>
@@ -23,5 +22,4 @@
 </p>
 </td>
 </table>
-<footer><a href="https://ko-fi.com/auuki"><img align="center" src="https://bit.ly/3c9otOD">
-</a></footer>
+
