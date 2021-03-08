@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
 <a href="https://namemc.com/Auuki.2">
 <img align="center" src="https://cravatar.eu/helmhead/auuki/190.png", width="80">
 </a><a href="https://ko-fi.com/auuki">
@@ -26,4 +26,4 @@
 </details>
 </td> 
 </table>
-</p>
+</div>
