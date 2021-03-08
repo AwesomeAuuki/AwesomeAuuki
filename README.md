@@ -1,8 +1,6 @@
 <div align="center">
    <a href="https://namemc.com/Auuki.2">
    <img align="center" src="https://cravatar.eu/helmhead/auuki/190.png", width="80">
-   </a><a href="https://ko-fi.com/auuki">
-   <img align="center" src="https://bit.ly/3c9otOD"/>
    </a>
    <table>
       <td><a href="https://spoti.fi/3rqvvVD">
@@ -30,4 +28,7 @@
          </details>
       </td>
    </table>
+   <a href="https://ko-fi.com/auuki">
+   <img align="center" src="https://bit.ly/3c9otOD"/>
+   </a>
 </div>
