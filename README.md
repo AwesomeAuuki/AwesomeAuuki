@@ -21,8 +21,10 @@
 <img align="center" src="https://img.shields.io/discord/749174105151897610?label=Discord">
 </a>
 </p>
-
-* You can also contact me via [email](mailto:snowgangers@gmail.com)  
+<ul></ul>
+<ul>
+<li>You can also contact me via <a href="mailto:snowgangers@gmail.com">email</a>  </li>
+</ul>
 </details>
 </td> 
 </table>
