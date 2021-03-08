@@ -21,8 +21,7 @@
     
 * You can also contact me via [email](mailto:snowgangers@gmail.com)   
 </p>
-  <a href="https://ko-fi.com/auuki">
-  <img align="center" src="https://bit.ly/3c9otOD">
-</a> 
 </td>
 </table>
+<footer align="center"><a href="https://ko-fi.com/auuki"><img align="center" src="https://bit.ly/3c9otOD">
+</a></footer>
