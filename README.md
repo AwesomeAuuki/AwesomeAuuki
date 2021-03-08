@@ -24,9 +24,8 @@
                <img align="center" src="https://bit.ly/30m9b3p">
                </a>
             </p>
-            <ul></ul>
-            <ul>
-               <li>You can also contact me via <a href="mailto:snowgangers@gmail.com">email</a>  </li>
+            <ul> 
+               <li>You can also contact me via <a href="mailto:snowgangers@gmail.com">email</a></li>
             </ul>
          </details>
       </td>
