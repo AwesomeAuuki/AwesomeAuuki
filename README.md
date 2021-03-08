@@ -23,5 +23,5 @@
 </p>
 </td>
 </table>
-<footer align="center"><a href="https://ko-fi.com/auuki"><img align="center" src="https://bit.ly/3c9otOD">
+<footer><a href="https://ko-fi.com/auuki"><img align="center" src="https://bit.ly/3c9otOD">
 </a></footer>
