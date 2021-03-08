@@ -21,6 +21,5 @@
 </p>
 </td>
 </table>
-</p>
 <img align="center" src="https://github.com/AwesomeAuuki/AwesomeAuuki/raw/main/images/full-avatar.jpg", width="40">
-
+</p>
