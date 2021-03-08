@@ -20,9 +20,9 @@
 <p align="center"><a href="https://discord.gg/ePmNxnQ">
 <img align="center" src="https://img.shields.io/discord/749174105151897610?label=Discord">
 </a>
+</p>
 
 * You can also contact me via [email](mailto:snowgangers@gmail.com)  
-</p>
 </details>
 </td> 
 </table>
