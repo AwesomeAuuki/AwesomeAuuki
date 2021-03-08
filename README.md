@@ -18,7 +18,8 @@
 <a href="https://discord.gg/ePmNxnQ">
 <img align="center" src="https://img.shields.io/discord/749174105151897610?label=Discord"/>
 </a>
-* You can also contact me via [email](mailto:zackmyers@lavabit.com)   
+    
+* You can also contact me via [email](mailto:snowgangers@gmail.com)   
 </p>
 </details>
     <details><summary>Support me!</summary>
