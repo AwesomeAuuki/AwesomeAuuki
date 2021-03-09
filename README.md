@@ -1,6 +1,6 @@
 <div align="center">
    <a href="https://namemc.com/Auuki.2">
-   <img align="center" src="https://cravatar.eu/helmhead/auuki/600", width="80">
+   <img align="center" src="https://cravatar.eu/helmhead/auuki/600", width="100">
    </a>
    <table>
       <td><a href="https://spoti.fi/3rqvvVD">
