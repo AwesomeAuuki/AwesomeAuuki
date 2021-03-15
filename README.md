@@ -33,4 +33,5 @@
     <a href="https://ko-fi.com/auuki">
         <img align="center" src="https://bit.ly/3c9otOD" />
     </a>
+        <footer align="center">Hi</footer>
 </div>
