@@ -1,7 +1,7 @@
 <div align="center">
-<!--    <a href="https://namemc.com/Auuki.2">
-   <img align="center" src="https://cravatar.eu/helmhead/auuki/600", width="100">
-   </a> -->
+   <a href="https://namemc.com/Auuki.2">
+   <img align="center" src="https://github.com/AwesomeAuuki/AwesomeAuuki/raw/main/cupcake.png", width="100">
+   </a>
    <table>
       <td><a href="https://spoti.fi/3rqvvVD">
          <img src="https://novatorem-three-sooty.vercel.app/api/spotify">
