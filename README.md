@@ -2,7 +2,7 @@
     <table>
         <td>
             <a href="https://namemc.com/Auuki.2">
-                <img align="center" src="https://github.com/AwesomeAuuki/AwesomeAuuki/raw/main/cupcake.png">
+                <img align="center" src="https://github.com/AwesomeAuuki/AwesomeAuuki/raw/main/cupcake.png", width="10%">
             </a>
         </td>
         <td>
