@@ -1,7 +1,7 @@
 <div align="center">
-         <a href="https://namemc.com/Auuki.2">
-                <img align="center" src="https://github.com/AwesomeAuuki/AwesomeAuuki/raw/main/images/cupcake.webp">
-            </a>
+    <a href="https://namemc.com/Auuki.2">
+        <img align="center" src="https://github.com/AwesomeAuuki/AwesomeAuuki/raw/main/images/cupcake.webp">
+    </a>
     <table>
         <td>
             <a href="https://spoti.fi/3rqvvVD">
