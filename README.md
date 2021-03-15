@@ -2,6 +2,7 @@
     <a href="https://ko-fi.com/auuki">
         <img align="center" src="https://bit.ly/3c9otOD" />
     </a>
+    <tr>
 <!--     <a href="https://namemc.com/Auuki.2">
         <img align="center" src="https://github.com/AwesomeAuuki/AwesomeAuuki/raw/main/images/cupcake.webp">
     </a> -->
